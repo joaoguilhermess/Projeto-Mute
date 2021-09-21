@@ -1,0 +1,22 @@
+{
+  "name": "playground-jg",
+  "version": "2.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": ""
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "node-fetch": "^2.6.1",
+    "puppeteer": "^10.0.0",
+    "puppeteer-extra-plugin-stealth": "^2.7.8",
+    "puppeteer-extra": "^3.1.17"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/playground-jg"
+  }
+}
